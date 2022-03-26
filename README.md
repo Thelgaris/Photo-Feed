@@ -1,3 +1,14 @@
+Hola 4Geeks teacher!
+
+He creado este Photo-feed y espero que te guste!
+
+el Photo feed se basa en crear un primer header con su titulo y sus atributos CSS y luego una imagen con su encabezado y su footer, esta imagen con su encabezado y su footer se repite a lo largo de la web.
+
+La imagen está creada con 3 divs principales para el encabezado, la imagen random traida de picsum y su footer con su descripcion. Luego aplicando los diferentes atributos y propiedades de CSS damos formato para que sea igual al ejercicio que se pide.
+
+Gracias!
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
